@@ -1,0 +1,22 @@
+{
+    "ScreenRecord": {
+	    "disableSoftwareScreenCapture": "1",
+        "ScreenDimensions": {
+            "topX1": "0",
+            "topY1": "0",
+            "bottomX2": "3240",
+            "bottomY2": "2160"
+        },
+        "Resolution": {
+            "resWidth": "3240",
+            "resHeight": "2160"
+        },
+        "fps": "30",
+        "outputBitrateInMB": "0",
+        "crf": "23",
+        "Recording": {
+            "segmentDuration": "5",
+            "fileName": "record1.m3u8"
+        }
+    }
+}
